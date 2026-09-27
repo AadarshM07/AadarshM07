@@ -4,7 +4,7 @@
 ###  About Me  
 -  I’m currently a **student**  
 -  I’m looking to collaborate on **software projects**   
--  How to reach me: **aadarshmahk@gmail.com**  
+-  How to reach: **aadarshmahk@gmail.com**  
 
 
 
